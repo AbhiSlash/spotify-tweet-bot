@@ -1,5 +1,3 @@
-$ heroku buildpacks:set heroku/python
-
 import spotipy
 import spotipy.util as util
 import tweepy
